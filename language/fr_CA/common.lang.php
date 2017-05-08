@@ -430,3 +430,6 @@ $lang['Link: %s'] = 'Lien: %s';
 $lang['No results for'] = 'Aucun résultat pour';
 $lang['Photo description'] = 'Description de la photo';
 $lang['Photo title'] = 'Titre de la photo';
+$lang['The date of the last photo added is'] = 'La date de la dernière photo ajoutée est le';
+$lang['at'] = 'à';
+$lang['No photo added'] = 'Pas de photo ajoutée';

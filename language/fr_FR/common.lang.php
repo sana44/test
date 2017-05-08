@@ -428,3 +428,6 @@ $lang['Link: %s'] = 'Lien: %s';
 $lang['Your authentication key is no longer valid.'] = 'Votre clef d\'identification n\'est plus valide.';
 $lang['Invalid username or password!'] = 'Nom d\'utilisateur ou mot de passe invalide !';
 $lang['generate random password'] = 'générer un mot de passe aléatoire';
+$lang['The date of the last photo added is'] = 'La date de la dernière photo ajoutée est le';
+$lang['at'] = 'à';
+$lang['No photo added'] = 'Pas de photo ajoutée';
