@@ -30,7 +30,7 @@ $template->assign(
     'PHPWG_URL' => defined('PHPWG_URL') ? PHPWG_URL : '',
     ));
 
-include(PHPWG_ROOT_PATH.'include/date_last_photo.php');
+//include(PHPWG_ROOT_PATH.'include/date_last_photo.php');
 	
 //--------------------------------------------------------------------- contact
 

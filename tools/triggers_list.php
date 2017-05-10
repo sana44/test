@@ -347,6 +347,12 @@ array(
   'files' => array('admin\cat_modify.php'),
 ),
 array(
+  'name' => 'loc_begin_dateLastPhoto',
+  'type' => 'trigger_notify',
+  'vars' => array(),
+  'files' => array('admin\date_last_photo.php'),
+),
+array(
   'name' => 'loc_begin_element_set_global',
   'type' => 'trigger_notify',
   'vars' => array(),
@@ -515,6 +521,12 @@ array(
   'type' => 'trigger_notify',
   'vars' => array(),
   'files' => array('admin\cat_modify.php'),
+),
+array(
+  'name' => 'loc_end_dateLastPhoto',
+  'type' => 'trigger_notify',
+  'vars' => array(),
+  'files' => array('admin\date_last_photo.php'),
 ),
 array(
   'name' => 'loc_end_element_set_global',
